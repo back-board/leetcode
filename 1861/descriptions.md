@@ -1,4 +1,4 @@
-# Problem 1568
+# Problem 1861
 ## Summary
 print final layout after rotating box.
 there is only gravity, no other power exists.

@@ -1,4 +1,4 @@
-# Problem 1568
+# Problem 2490
 ## Summary
 check given string is circular or not.
 string is circular when the characters are exactly same before & after space and the first & last.

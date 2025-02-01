@@ -1,4 +1,4 @@
-# Problem 1568
+# Problem 1957
 ## Summary
 return string after excluding minimum characters to make given string fancy.
 string is fancy when there is no three consecutive character with equal value.
